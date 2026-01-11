@@ -62,6 +62,7 @@ MarkupSafe==3.0.3
 matplotlib==3.10.8
 matplotlib-inline==0.2.1
 mistune==3.2.0
+mplcursors==0.7
 narwhals==2.14.0
 nbclient==0.10.4
 nbconvert==7.16.6
@@ -78,6 +79,7 @@ parso==0.8.5
 pexpect==4.9.0
 pillow==12.1.0
 platformdirs==4.5.1
+plotly==6.5.0
 prometheus_client==0.23.1
 prompt_toolkit==3.0.52
 protobuf==6.33.2
